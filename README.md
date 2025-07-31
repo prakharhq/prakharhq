@@ -57,4 +57,6 @@ I believe code + capital = freedom 🚀
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prakharhq&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakharhq&theme=react&hide_border=true" alt="prakharhq" />
+</p>
