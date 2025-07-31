@@ -58,5 +58,5 @@ I believe code + capital = freedom 🚀
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakharhq&theme=react&hide_border=true" alt="prakharhq" />
+  <img src="https://streak-stats.demolab.com/?user=prakharhq&theme=react&hide_border=true" alt="GitHub Streak"/>
 </p>
