@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Prakhar Singh
 
-<!--
-**prakharhq/prakharhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 1st-year B.Tech CSE student at LPU, on a focused 4-year journey to become a high-level investor and startup founder.
 
-Here are some ideas to get you started:
+### 🚀 Currently mastering:
+- 🐍 Python, Data Analytics & Finance Automation  
+- 🌐 Web & App Development (React, APIs, Hosting)  
+- ₿ Blockchain (Smart Contracts, Crypto Bots)  
+- 📊 Strategic Investing and Tax Planning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 My Vision:
+To build FinTech & Automation startups that create value through technology, fund global innovations, and scale intelligently.
+
+---
+
+### 🔧 Current Projects:
+- 🛠️ Trading automation tools  
+- 📊 Finance dashboards  
+- 🌍 Learning global investing strategies  
+
+---
+
+### 🤝 Let’s Connect:
+- [Twitter](https://twitter.com/prakharhq)  
+- [GitHub](https://github.com/prakharhq)  
+- [LinkedIn](https://linkedin.com/in/prakharhq) *(once live)*  
+
+---
+
+### 📌 Fun Fact:
+I believe code + capital = freedom 🚀
