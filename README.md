@@ -31,3 +31,30 @@ To build FinTech & Automation startups that create value through technology, fun
 
 ### 📌 Fun Fact:
 I believe code + capital = freedom 🚀
+
+---
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=prakharhq&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/prakharhq?label=Followers&style=social)
+
+---
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Prakhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakharhq&show_icons=true&theme=radical)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakharhq&layout=compact&theme=radical)
+
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prakharhq&theme=radical)
