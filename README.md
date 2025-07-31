@@ -23,9 +23,10 @@ To build FinTech & Automation startups that create value through technology, fun
 ---
 
 ### 🤝 Let’s Connect:
-- [Twitter](https://twitter.com/prakharhq)  
-- [GitHub](https://github.com/prakharhq)  
-- [LinkedIn](https://linkedin.com/in/prakharhq) *(once live)*  
+### 🌍 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakharhq)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/prakharhq)  
+[![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github&logoColor=white)](https://github.com/prakharhq)
 
 ---
 
