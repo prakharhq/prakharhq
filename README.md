@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prakhar Singh
 
-🎓 I'm a 2nd-year B.Tech CSE student at LPU, on a focused 4-year journey to become a high-level investor and startup founder.
+🎓 I'm a 1st-year B.Tech CSE student at LPU, on a focused 4-year journey to become a high-level investor and startup founder.
 
 ### 🚀 Currently mastering:
 - 🐍 Python, Data Analytics & Finance Automation  
