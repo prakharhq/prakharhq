@@ -22,7 +22,15 @@ To build FinTech & Automation startups that create value through technology, fun
 
 ---
 
-### 🤝 Let’s Connect:
+## 🌐 Web3 Contributions & Onchain Experience
+
+- Participated in testnet/mainnet airdrops (ZkSync, LayerZero, Starknet, etc.)  
+- Performed bridging, swapping, minting, and onchain transactions  
+- Used wallets: MetaMask, Phantom, TON, Solflare, Sui, Trust Wallet  
+- Completed tasks on Galxe, TaskOn, Zealy, Layer3  
+- Deployed tokens on testnets, explored smart contract platforms  
+- Bought/sold NFTs, explored Farcaster and other Web3 social apps  
+
 ### 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakharhq)  
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/prakharhq)  
