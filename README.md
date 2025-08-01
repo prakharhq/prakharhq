@@ -31,10 +31,13 @@ To build FinTech & Automation startups that create value through technology, fun
 - Deployed tokens on testnets, explored smart contract platforms  
 - Bought/sold NFTs, explored Farcaster and other Web3 social apps  
 
+---
+
 ### 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakharhq)  
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/prakharhq)  
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github&logoColor=white)](https://github.com/prakharhq)
+[![Farcaster](https://img.shields.io/badge/Farcaster-Profile-purple?logo=ethereum)](https://warpcast.com/prakhar0107)
 
 ---
 
