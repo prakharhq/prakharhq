@@ -6,7 +6,7 @@
 - 🐍 Python, Data Analytics & Finance Automation  
 - 🌐 Web & App Development (React, APIs, Hosting)  
 - ₿ Blockchain (Smart Contracts, Crypto Bots)  
-- 📊 Strategic Investing and Tax Plannin  
+- 📊 Strategic Investing and Tax Planning  
 
 ---
 
