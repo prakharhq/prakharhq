@@ -63,10 +63,10 @@ I believe code + capital = freedom 🚀
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://[YOUR_VERCEL_LINK].vercel.app/api?username=prakharhq&show_icons=true&theme=radical&count_private=true" alt="Prakhar's GitHub Stats" />
+  <img src="https://prakharhq-readme-stats.vercel.app/api?username=prakharhq&show_icons=true&theme=radical&count_private=true" alt="Prakhar's GitHub Stats" />
   <br/>
   <br/>
-  <img src="https://[YOUR_VERCEL_LINK].vercel.app/api/top-langs/?username=prakharhq&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://prakharhq-readme-stats.vercel.app/api/top-langs/?username=prakharhq&layout=compact&theme=radical" alt="Top Langs" />
   <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakharhq&theme=radical&hide_border=true" alt="GitHub Streak" />
